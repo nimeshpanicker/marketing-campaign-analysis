@@ -333,6 +333,112 @@ February 2025 contains only **9 days of campaign data**.
 
 Therefore, the lower February totals and ROAS should not be treated as evidence of a full-month decline without additional data.
 
+# 📌 Business Recommendations
+
+Based on the analysis, the following areas can be investigated in future campaign cycles:
+
+### 1. Evaluate Budget Allocation
+
+Compare channel-level ROAS, CPM and conversion rate together when reviewing advertising allocation.
+
+### 2. Investigate Instagram Ads
+
+Instagram Ads recorded a ROAS of **157.07** and CPM of **₹8.79**. Its spend share and revenue share can be monitored in future campaign cycles.
+
+### 3. Investigate Household Campaigns
+
+Household recorded the highest revenue share, ROAS and conversion rate in the dataset.
+
+### 4. Review Personal Care Performance
+
+Personal Care recorded the lowest category-level ROAS and conversion rate. Further analysis of creative, targeting and channel mix can help identify potential causes.
+
+### 5. Analyse High-Performing Products
+
+Air Freshener, Eggs and Biscuits recorded high ROAS values.
+
+Their channel mix, campaign characteristics and targeting can be examined for patterns that may be useful for future experimentation.
+
+### 6. Investigate Lower-ROAS Products
+
+Toothpaste and Chips recorded the lowest product-level ROAS values.
+
+Future campaign cycles should examine their creative, targeting, pricing and channel performance before making additional budget decisions.
+
+### 7. Continue Monthly KPI Monitoring
+
+Track:
+
+- ROAS
+- CTR
+- Conversion Rate
+- CPM
+- Ad Spend
+- Revenue
+- Conversions
+
+at channel, category and product level.
+
+### 8. Re-evaluate February Performance
+
+The February 2025 dataset covers only nine days. The analysis should be repeated once a complete February dataset is available.
+
+# 📊 Power BI Dashboard Details
+
+The Power BI dashboard is designed as a single-page marketing performance dashboard.
+
+## Dashboard Components
+
+### KPI Cards
+
+The dashboard contains eight primary KPI cards:
+
+- Ad Spend
+- ROAS
+- CPM
+- Clicks
+- CTR
+- Conversion
+- Conversion Rate
+- Impressions
+
+### Visuals
+
+The dashboard includes:
+
+1. **Spend vs Conversion Over Time**
+2. **Spend by Marketing Channel**
+3. **Ad Spend and Revenue by Date**
+4. **Impressions and Clicks by Month**
+5. **Category Filter**
+
+### Interactive Category Filter
+
+The dashboard provides five category filters:
+
+- Beverages
+- Groceries
+- Household
+- Personal Care
+- Snacks
+
+Selecting a category updates the dashboard visuals and KPI values for that category.
+
+This allows users to perform self-service category-level analysis without creating separate reports.
+
+## Dashboard KPI Snapshot
+
+| KPI | Dashboard Value |
+|---|---:|
+| Ad Spend | ₹2.42M |
+| ROAS | ₹142.51 |
+| CPM | ₹9.97 |
+| Clicks | 12M |
+| CTR | 5.09% |
+| Conversions | 1M |
+| Conversion Rate | 9.81% |
+| Impressions | 242M |
+
 # 🧹 Data Preparation & Validation
 
 The dataset was reviewed and prepared before building the Power BI dashboard.
